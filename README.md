@@ -6,7 +6,7 @@
 ### Dataset: WHO national life expectancy
 - Columns: 32
 - Rows: 3111
-- Features: 
+- Features: numerical, categorical.
 - Time period: 2000-2016
 - Focus: Identification of impact of immunization and sociodemographic factors on population health using life expectancy.
 - Source: https://www.kaggle.com/mmattson/who-national-life-expectancy
