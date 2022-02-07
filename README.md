@@ -10,8 +10,12 @@
 - Time period: 2000-2015
 - Focus: Identification of impact of immunization and sociodemographic factors on population health using life expectancy.
 - Source: https://www.kaggle.com/kumarajarshi/life-expectancy-who
+ 
+Reasoning
 
 Project Goals
+
+Frameowork
 
 Hypothesis
 
