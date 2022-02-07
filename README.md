@@ -12,12 +12,15 @@
 - Source: https://www.kaggle.com/mmattson/who-national-life-expectancy
  
 Reasoning
+
 Interesting data set upon first glance with adequate entries and columns. Possibility of modelling and visualization. 
 
 Project Goals
+
 Finish on time. Make it useful and aesthetic.
 
 Frameowork
+
 Study influence of alcohol on life expectancy.
 Study domestic general government health expenditure (GGHE-D) as percentage of gross domestic product (GDP) percentage and its influence of life expectancy.
 Establish whether vaccine mandates are effective in improving life expectancy and the difference in effect between the developing and developed world. 
