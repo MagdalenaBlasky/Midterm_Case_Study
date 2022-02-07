@@ -3,7 +3,7 @@
 ## Team members: Magdalena Blaski-Makara, Muhammad Anani. 
 ## Project type: Modelling/Regression
 
-### Dataset: Lifeexpectsancy (WHO)
+### Dataset: Life-expectancy (WHO)
 - Columns: 22
 - Rows: 2938
 - Features: 
