@@ -22,7 +22,7 @@ Finish on time. Make it useful and aesthetic.
 1. Study influence of alcohol on life expectancy.
 2. Study domestic general government health expenditure (GGHE-D) as percentage of gross domestic product (GDP) and its influence on life expectancy.
 3. Establish whether vaccine mandates are effective in improving life expectancy and the difference in effect between the developing and developed world. 
-4. Use data from years 2000-2013 to generate predictive models on factors contributing to improved live expectancy. Test their applicability and accuracy for the      years 2014-2016.
+4. Use data from years 2000-2014 to generate predictive models on factors contributing to improved live expectancy. Test their applicability and accuracy for the      years 2015-2016.
 
 *Using Tableau:*
 1. Create visualizations that explore health treands over time and compare factors contributing to improved life expectancy
