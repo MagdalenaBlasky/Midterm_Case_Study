@@ -1,7 +1,7 @@
 # WHO_Life_Expectancy_Linear_Regression
 
 ## Team members: Magdalena Blaski-Makara, Muhammad Anani
-## Project type: Modelling/Regression
+## Project type: Modelling/Linear Regression/Visualization
 
 ### Dataset: WHO national life expectancy
 - Columns: 32
